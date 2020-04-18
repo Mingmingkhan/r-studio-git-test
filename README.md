@@ -1,2 +1,3 @@
 # r-studio-git-test
-Ming struggling
+ Ming struggling
+ MY FIRST commit to with R 
